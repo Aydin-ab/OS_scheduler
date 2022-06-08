@@ -1,7 +1,7 @@
 # OS scheduler
 Homework for OS course at NYU. Basic scheduler to replicate OS behavior in C++
 
-**Grade : 100/100**
+**Grade : 96.3/100 A**
 
 ## HOW TO USE
 Compile the code with the ```make``` command
