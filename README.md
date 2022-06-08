@@ -5,8 +5,8 @@ Homework for OS course at NYU. Basic scheduler to replicate OS behavior in C++
 
 ## HOW TO USE
 Compile the code with the ```make``` command
-Execute the program with ```scheduler [-s<schedspec>] input_file rand_file```. The output goes to the standard output
-Given a list of input files and a random file, you can use the ```runit.sh``` script to run the program on each of them and put the outputs in a output directory. Use the runit.sh script inside the input directory like that : ```runit.sh <your_output_dir> scheduler```
+Execute the program with ```sched [-s<schedspec>] input_file rand_file```. The output goes to the standard output
+Given a list of input files and a random file, you can use the ```runit.sh``` script to run the program on each of them and put the outputs in a output directory. Use the runit.sh script inside the input directory like that : ```runit.sh <your_output_dir> sched```
 
 
 ## CONTEXT
